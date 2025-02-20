@@ -28,12 +28,12 @@
             background: rgba(31, 91, 110, 0.8);
             padding: 50px;
             border-radius: 15px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
             text-align: center;
             width: 800px;
             height: 600px;
             color: white;
-            margin-left: 40rem;
+            margin-left: 12rem;
         }
 
         h1 {
